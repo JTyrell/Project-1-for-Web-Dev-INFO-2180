@@ -70,7 +70,7 @@
     margin: 0 auto;
 }
 
-.social-media {
+.social-media-handles {
     border-top: 3px solid var(--black);
 }
 
@@ -110,11 +110,11 @@
     padding: 0px 5px;
     /* background-color: var(--twitter); */
 }
-.sections {
+.info-sections {
     border-top: 3px solid var(--black);
 }
 
-.experience , .education {
+.work-experience , .education {
     display: grid;
     grid-template-columns: 70px 100px;
     grid-template-rows: 40px 40px;
